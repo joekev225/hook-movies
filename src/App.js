@@ -10,7 +10,7 @@ function App() {
   let [films, setFilms] = useState([
     {
       id : 1,
-      title : "Le Sacre de Leon Edwards, l&#39;UFC 286 &amp; MMA News, feat @ManuelFerraraTV",
+      title : "Le Sacre de Leon Edwards",
       description : "description",
       link : "https://www.youtube.com/embed/7kDTDFQ5AVI",
       coverImage : "https://imgur.com/zejebz.jpg"
@@ -26,7 +26,7 @@ function App() {
 
     {
       id : 3,
-      title : "Pourquoi &quot;JavaScript c&#39;est nul",
+      title : "javascript pour les nuls",
       description : "description",
       link : "https://www.youtube.com/embed/BXhaykc3uqA",
       coverImage : "https://imgur.com/zejebz.jpg"
